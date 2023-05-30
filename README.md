@@ -14,7 +14,7 @@ This web crawler, which is written with Scrapy, refers to the wall site (Mashhad
 
 and saves it in a file in **Json** and **Csv** formats.
 
-By running the code
+By opening the code
 ```
 scrapy crawl home_spider -O home_data.json
 ```
@@ -24,16 +24,15 @@ Or
 scrapy crawl home_spider -O home_data.csv
 ```
 At
-cmd
-that in the folder **home_data**
-It is opened,
+terminal,
+that is in the folder **home_data**
 
-you can do the scrap and the netich in the file
+you can observe the scraped data in below files:
 `home_data.json`
 Or
 `home_data.csv`
 
-As you can see, the data in the output files are not clean and are not suitable for use in data analysis, so by running the file
+As you will notice, the data in the output files are not clean and thus are not suitable to use in data analysis; therefore by running the file
 `clean_data.py`
 
 You can save the cleaned data in the file
