@@ -30,3 +30,11 @@ It is opened, you can do the scrap and the netich in the file
 `home_data.json`
 Or
 `home_data.csv`
+
+As you can see, the data in the output files are not clean and are not suitable for use in data analysis, so by running the file
+`clean_data.py`
+
+You can save the cleaned data in the file
+`home_data_clean.json`
+Or
+`home_data_clean.csv`
