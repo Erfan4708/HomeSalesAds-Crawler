@@ -1,6 +1,6 @@
 # HomeSalesAds-Crawler
 
-This web crawler, which is written with Scrappy, refers to the wall site (Mashhad apartments) and the features of each ad such as
+This web crawler, which is written with Scrapy, refers to the wall site (Mashhad apartments) and the features of each ad such as
 name,
 Meterage,
 Year of construction,
