@@ -26,7 +26,9 @@ scrapy crawl home_spider -O home_data.csv
 At
 cmd
 that in the folder **home_data**
-It is opened, you can do the scrap and the netich in the file
+It is opened,
+
+you can do the scrap and the netich in the file
 `home_data.json`
 Or
 `home_data.csv`
